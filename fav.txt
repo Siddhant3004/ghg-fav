@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 greek curd
 fr
 eggs
+=======
+your name
+lion king
+dune
+>>>>>>> movies
